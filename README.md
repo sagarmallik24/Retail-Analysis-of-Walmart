@@ -4,7 +4,7 @@
   - Checking Max sales of months
   - Quarterly sales of walmart.
   - Risk area which impacted the walmart retail sales.
-  - Predicted the Weekly_sales of walmart using the ML alorithms.
+  - Predicted the Weekly_sales of walmart using the ML algorithms.
 
 ### Used Python Libraries like Pandas, Numpy , Visualization Library like Matplotlib , used statistical tool to see the independence and Factor affecting the outcome such as OLS from statsmodel & also Machine Learning Algorithm  from sklearn in order to predict the Outcome.
 
