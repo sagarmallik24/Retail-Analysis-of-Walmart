@@ -14,3 +14,4 @@ Note*: Regression Algorithm  are used as the dataset had dependent variable as c
   - Linear Regression Algorithm
   - Random Forest Regressor
 
+Note*: RandomForest Regressor performed well with R2 score of 0.92 which is 92% accuracy it can be further improved via Hyperparameter tuning and cross-validations.
